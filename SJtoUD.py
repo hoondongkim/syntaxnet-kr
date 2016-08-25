@@ -2,7 +2,6 @@ import re
 import codecs
 
 # "ㄴ       ETM", "ㄹ     ETM" 처리.. 결과를 list 에 store 했다가, </p> 테그에서 고치고, output
-
 """
 [1] Main Function
 """
