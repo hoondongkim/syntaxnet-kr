@@ -7,7 +7,7 @@ import codecs
 """
 def main():
 
-    f = open('InputData\BTHO0437.txt', 'r', encoding='utf-16')
+    f = open('InputDataType1\BTHO0437.txt', 'r', encoding='utf-16')
     is_inside = False
     line_counter = 0
     OUT_FILENAME = "OutputData\kr-ud-dev.conllu"
