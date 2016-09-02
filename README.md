@@ -42,6 +42,7 @@ That UD files will be uesd to train the korean version of Google Syntaxnet.(<htt
 
 ### 2. Output File Format (English Example)
 1	Bush	Bush	PROPN	NNP	Number=Sing	3	nsubj	_	_
+
 2	also	also	ADV	RB	_	3	advmod	_	_
 3	nominated	nominate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	A.	A.	PROPN	NNP	Number=Sing	7	name	_	_
