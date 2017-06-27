@@ -2,10 +2,13 @@
 
 ## 1. Our First Goal.
 We will make the Generator Tool for the korean UniversalDependency Files.(<http://universaldependencies.org>)
-That UD files will be uesd to train the korean version of Google Syntaxnet.(<https://github.com/tensorflow/models/tree/master/syntaxnet>)
+That UD files will be uesd to train the korean version of Google Syntaxnet.
+
+(<https://github.com/tensorflow/models/tree/master/syntaxnet>)
 
 ### 1. Input File Format
 ; 친구 딸의 결혼식 구경으로 일이 끝난 게 아니라 또 딴 친구 남편의 개인전을 구경하고 나서 다시 딴 친구 딸이 참가하는 음악회 구경을 가야 된다는 약간 문화적인 구경거리가 그날의 스케줄로 우리 앞에 남아 있었다.
+
 (S 	(NP_SBJ 	(VP_MOD 	(VP_CMP 	(NP_CMP 	(S_MOD 	(NP_AJT 	(NP 	(NP_MOD 	(NP_MOD 친구/NNG)
 									(NP_MOD 딸/NNG + 의/JKG))
 								(NP 결혼식/NNG))
